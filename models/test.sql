@@ -1,0 +1,7 @@
+
+
+with src as (
+SELECT ID FROM MYTAB
+)
+
+SELECT * FROM SRC
